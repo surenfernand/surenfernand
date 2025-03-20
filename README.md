@@ -26,7 +26,7 @@
 ### 🛠 Languages & Tools:
 <p align="center">
   <a href="https://www.java.com" target="_blank">
-    <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,redux,nodejs,php,html,css,sass,tailwind,bootstrap,mui,materialize,git,mysql,spring,hibernate,selenium,postman" alt="Tech Stack" />
+    <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,redux,nodejs,php,html,css,sass,tailwind,bootstrap,mui,git,mysql,spring,hibernate,selenium,postman" alt="Tech Stack" />
   </a>
 </p>
 
