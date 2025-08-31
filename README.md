@@ -5,12 +5,7 @@
   <img src="https://komarev.com/ghpvc/?username=surenfernand&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" /> 
 </p>
 
-- 🔭 I’m currently working on [Aethenos](https://aethenos.com/)
-- 🌱 I’m currently learning **React.js, Hibernate**
-- 📫 How to reach me: **fernandosuren6@gmail.com**
-
----
-
+ 
 ### 🌐 Connect with me:
 <p align="left">
   <a href="https://www.linkedin.com/in/suren-fernando-a17913213" target="_blank">
